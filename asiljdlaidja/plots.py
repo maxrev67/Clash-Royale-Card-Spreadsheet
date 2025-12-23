@@ -33,8 +33,8 @@ plt.bar(df["rarity"], df["Win Rate"], alpha=0.7,)
 
 
 plt.title("Clash Royale Rarity Elixir Cost")
-plt.xlabel("Win Rate")
-plt.ylabel("Rarity")
+plt.xlabel("Rarity")
+plt.ylabel("Win Rate")
 
 plt.grid(False)  # I did this to make it easier to read
 plt.tight_layout()
