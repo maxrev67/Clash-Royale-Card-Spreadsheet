@@ -1,0 +1,1 @@
+# Clash-Royale-Card-Spreadsheet
